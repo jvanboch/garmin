@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#files
+weightgurus.csv
+garmin_activities.csv
+excercise_myfit.csv
+my_fit_sum.csv
+nutrition.csv
